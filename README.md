@@ -4,21 +4,20 @@ This is the template repository for XML-based mods in RIMWORLD.
 
 see. https://rimworldwiki.com/wiki/Modding_Tutorials/Mod_Folder_Structure
 
-# MID-SAVE
+## MID-SAVE
 
 途中導入および途中除去についての記述
 
-# CONFLICT
+## CONFLICT
 
 競合が予想されるmodについての記述
 
-# Acknowledgment, reference, credit title, Licence ...
+## NOTICE
 
-- 使用した素材のライセンス表記
-- 参考にしたmodの記載
-- フォークした場合はフォーク元のライセンス表記
+本Modは [BSD 3-Clause “New” or “Revised” License](LICENSE) で提供されています。
 
-# CONTRIBUTING
+謝辞および使用している素材・ライブラリは [NOTICE.md](NOTICE) に記載してあります。
 
-[リポジトリに対する各種貢献についての指針](https://github.com/piet-rian/.github/blob/main/CONTRIBUTING.md) および
-[LICENSE](LICENSE) を参照の上でお願いします。
+## CONTRIBUTING
+
+[リポジトリに対する各種貢献についての指針](https://github.com/piet-rian/.github/blob/main/CONTRIBUTING.md) を参照した上でお願いします。
