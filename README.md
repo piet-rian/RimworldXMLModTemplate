@@ -6,7 +6,10 @@ see. <https://rimworldwiki.com/wiki/Modding_Tutorials/Mod_Folder_Structure>
 
 ## MID-SAVE
 
-途中導入および途中除去についての記述
+- 途中導入
+  - 問題の有無
+- 途中で除去
+  - 問題の有無、エラーが発生するかどうか
 
 ## CONFLICT
 
