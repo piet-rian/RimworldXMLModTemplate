@@ -21,4 +21,4 @@ see. <https://rimworldwiki.com/wiki/Modding_Tutorials/Mod_Folder_Structure>
 
 ただし、使用している各種素材についてはライセンスが異なる場合があります。[NOTICE.md](NOTICE.md) に謝辞と共に使用している素材・ライブラリを記載してありますので、そちらから詳細を確認してください。
 
-プルリクエストおよびイシューについては [リポジトリに対する各種貢献についての指針](https://github.com/piet-rian/.github/blob/main/CONTRIBUTING.md) を参照した上でお願いします。
+プルリクエストおよびイシューについては [リポジトリに対する各種貢献についての指針](?tab=contributing-ov-file) を参照した上でお願いします。
