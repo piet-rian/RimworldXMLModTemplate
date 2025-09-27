@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
+    <packageId>rimworld.xml.mod.template</packageId>
+    <name>RimworldXMLModTemplate</name>
+    <authors>
+        <li>piet-rian</li>
+        <li>...</li>
+    </authors>
+    <description>this is a template.</description>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+
+    <modVersion>1.0</modVersion>
+
+
     <!-- see. https://rimworldwiki.com/wiki/Modding_Tutorials/About.xml -->
+
+    <!-- <modDependencies>
+        <li>
+            <packageId>vanillaexpanded.outposts</packageId>
+            <displayName>Vanilla Outposts Expanded</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2688941031</steamWorkshopUrl>
+        </li>
+    </modDependencies> -->
+
+    <!-- <loadAfter>
+        <li>vanillaexpanded.outposts</li>
+    </loadAfter> -->
 
 </ModMetaData>
